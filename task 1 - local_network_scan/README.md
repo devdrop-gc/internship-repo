@@ -1,15 +1,15 @@
-# Local Network Open Ports Scan  
+# 🔍 Local Network Open Ports Scan  
 
-## Objective
+## 🎯 Objective
 Learn to discover open ports on devices in your local network to understand network exposure.
 
-## Tools Used
+## 🧰 Tools Used
 - **Nmap**  
 - **Wireshark** 
 
 ---
 
-## Step-by-Step Execution
+## 🛠️ Step-by-Step Execution
 
 1. **Installed Nmap**   
 2. **Local IP range** – `192.168.1.0/24` (found via `ipconfig`)  
@@ -21,7 +21,7 @@ Learn to discover open ports on devices in your local network to understand netw
 
 ---
 
-## Summary of Open Ports
+## 📈 Summary of Open Ports
 
 | IP Address      | Open Ports (TCP)         |
 |-----------------|--------------------------|
@@ -30,7 +30,7 @@ Learn to discover open ports on devices in your local network to understand netw
 
 ---
 
-## Files Included
+## 📦 Files Included
 - `scan_results.txt` – raw console output  
 - `services_research.md` – common services  
 - `security_risks.md` – risk analysis  
@@ -38,5 +38,6 @@ Learn to discover open ports on devices in your local network to understand netw
 - `commands.md` – commands used
 
 ---
+
 
 **All steps completed.**
