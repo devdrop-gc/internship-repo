@@ -40,6 +40,8 @@
 
 **Red Flag:** Path **Israel → Taiwan → US** – not in Africa.
 
+![MX Toolbox Result](header-analyzer.png)
+
 ---
 
 ## 4. Links / Attachments
@@ -75,5 +77,6 @@
 | Proxy | Israel → Taiwan |
 | Greed | $18M offer |
 | Grammar | Multiple errors |
+
 
 **Conclusion:** Confirmed **phishing scam**.
