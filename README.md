@@ -8,5 +8,7 @@
 
 [Task 2 - Phishing Email Analysis](https://github.com/devdrop-gc/internship-repo/tree/main/task%202%20-%20phishing_email_analysis)
 
+[Task 3 - Vulnerability Scan on Personal PC](https://github.com/devdrop-gc/internship-repo/tree/main/task%203%20-%20vulnerability_scan)
+
 ---
 
