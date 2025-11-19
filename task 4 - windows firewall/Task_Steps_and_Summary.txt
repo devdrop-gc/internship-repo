@@ -12,6 +12,7 @@ Steps followed on Windows
 4. Tested with PowerShell:
    Command - "Test-NetConnection 127.0.0.1 -Port 23"
    → TcpTestSucceeded : False (blocked by firewall)
-5. Deleted the custom rule “Block Test Port 2222”
+5. Deleted the custom rule “Block Test Port 23”
 6. Confirmed rule no longer exists
 7. Firewall returned to original state
+
