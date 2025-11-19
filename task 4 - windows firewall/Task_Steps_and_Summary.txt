@@ -1,0 +1,17 @@
+Steps followed on Windows
+
+1. Opened Windows Defender Firewall with Advanced Security (wf.msc)
+2. Viewed existing Inbound Rules
+3. Created new Inbound Rule:
+   - Rule Type: Port
+   - Protocol: TCP
+   - Specific local ports: 23
+   - Action: Block the connection
+   - Profile: All profiles (Domain, Private, Public)
+   - Name: Block Test Port 23
+4. Tested with PowerShell:
+   Command - "Test-NetConnection 127.0.0.1 -Port 23"
+   → TcpTestSucceeded : False (blocked by firewall)
+5. Deleted the custom rule “Block Test Port 2222”
+6. Confirmed rule no longer exists
+7. Firewall returned to original state
