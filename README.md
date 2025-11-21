@@ -12,5 +12,7 @@
 
 [Task 4 - Setup and Use a Firewall (Windows)](https://github.com/devdrop-gc/internship-repo/tree/main/task%204%20-%20windows%20firewall)
 
+[Task 5 - Network Traffic Analysis Using Wireshark](https://github.com/devdrop-gc/internship-repo/tree/main/task%205%20-%20network_traffic_analysis)
+
 ---
 
