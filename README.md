@@ -14,5 +14,7 @@
 
 [Task 5 - Network Traffic Analysis Using Wireshark](https://github.com/devdrop-gc/internship-repo/tree/main/task%205%20-%20network_traffic_analysis)
 
+[Task 6 - Password Strength Evaluation](https://github.com/devdrop-gc/internship-repo/tree/main/task%206%20-%20password_strength_evaluation)
+
 ---
 
