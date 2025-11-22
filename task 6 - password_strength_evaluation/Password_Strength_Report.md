@@ -4,7 +4,7 @@
 Understand what makes a password strong and test it against password strength tools.
 
 ## 2. Tool Used
-- **The Password Meter** – https://www.passwordmeter.com  
+- **The Password Meter** – [https://www.passwordmeter.com](https://passwordmeter.com/)  
   (Chosen because it gives a clear percentage score and detailed feedback)
 
 ## 3. Passwords Tested
@@ -49,3 +49,4 @@ All testing was performed live. Screenshots and results are included in this rep
 
 
 **End of Report**
+
