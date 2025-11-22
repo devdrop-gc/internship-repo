@@ -11,12 +11,12 @@ Understand what makes a password strong and test it against password strength to
 
 | Password                     | Length | Score | Verdict      | Key Feedback                                   | Screenshot                  |
 |-------------------------------|--------|-------|-------------|-----------------------------------------------|----------------------------|
-| password                     | 8      | 8%    | Very Weak    | Lowercase only; repeated/consecutive letters | ![ss_01](screenshot/01.png) |
-| Password123                  | 11     | 75%   | Strong       | Mixed-case + numbers; predictable sequences  | ![ss_02](screenshot/02.png) |
-| p@ssw0rd2025!                | 13     | 100%  | Very Strong  | Random letters, numbers, symbols; minor repeats | ![ss_03](screenshot/03.png) |
-| BatteryHorse99!!             | 16     | 100%  | Very Strong  | Long mixed-case with numbers/symbols; some repeats | ![ss_04](screenshot/04.png) |
-| CorrectHorseBatteryStaple    | 25     | 90%   | Very Strong  | Long letters-only; many consecutive lowercase | ![ss_05](screenshot/05.png) |
-| K9$mZv!qL2&wP8^eJ9#xT        | 21     | 100%  | Very Strong  | Long random mix of all char types             | ![ss_06](screenshot/06.png) |
+| password                     | 8      | 8%    | Very Weak    | Lowercase only; repeated/consecutive letters | ![ss_01](screenshots/01.png) |
+| Password123                  | 11     | 75%   | Strong       | Mixed-case + numbers; predictable sequences  | ![ss_02](screenshots/02.png) |
+| p@ssw0rd2025!                | 13     | 100%  | Very Strong  | Random letters, numbers, symbols; minor repeats | ![ss_03](screenshots/03.png) |
+| BatteryHorse99!!             | 16     | 100%  | Very Strong  | Long mixed-case with numbers/symbols; some repeats | ![ss_04](screenshots/04.png) |
+| CorrectHorseBatteryStaple    | 25     | 90%   | Very Strong  | Long letters-only; many consecutive lowercase | ![ss_05](screenshots/05.png) |
+| K9$mZv!qL2&wP8^eJ9#xT        | 21     | 100%  | Very Strong  | Long random mix of all char types             | ![ss_06](screenshots/06.png) |
 
 ## 4. Key Observations
 - **Length beats complexity**: The 25-character passphrase with only letters scored 100%, while many shorter “complex” passwords scored under 60%.
@@ -46,5 +46,6 @@ The single most important factor in password security is **length**, followed by
 **Recommendation:** Use a password manager to generate and store 20–30 character random passwords or memorable passphrases for every account.
 
 All testing was performed live. Screenshots and results are included in this repository for verification.
+
 
 **End of Report**
